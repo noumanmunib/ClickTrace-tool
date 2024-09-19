@@ -1,9 +1,3 @@
-Yes, sharing the tool on **GitHub** is a great idea! It allows the professor (and others) to easily review, test, and possibly contribute to the project. Below, I've written a clear **README.md** file for your project that you can use in your GitHub repository.
-
----
-
-### README.md
-
 # ClickTrace Tool
 
 ClickTrace is a JavaScript static analysis tool designed to find **all possible sequences of function calls** triggered after a user clicks an app button. The tool builds a **call graph** and recursively explores every possible function call path. It's especially useful for analyzing JavaScript applications, both simple and complex, including those built using the **MVC architecture**.
